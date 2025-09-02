@@ -1,8 +1,4 @@
-Here's a template for a README file for your GitHub profile search app project:
-
----
-
-# GitHub Profile Search App
+# GitHub Profile Detective
 
 This is a simple web application built with React.js that allows users to search for GitHub profiles by username and view detailed profile information.
 
@@ -45,13 +41,3 @@ To run this project locally, follow these steps:
    ```
 
 5. Open your browser and visit `http://localhost:3000` to view the app.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas, suggestions, or improvements, please create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
