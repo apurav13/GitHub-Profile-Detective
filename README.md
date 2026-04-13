@@ -21,9 +21,8 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine using:
    ```
-   git clone https://github.com/your-username/GitHub-Profile-Search-App-Using-React-JS.git
+   git clone https://github.com/apurav13/GitHub-Profile-Search-App-Using-React-JS.git
    ```
-   Replace `your-username` with your GitHub username.
 
 2. Navigate to the project directory:
    ```
